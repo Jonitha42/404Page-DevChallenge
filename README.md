@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://devchallenges.io/solutions/rURuFKhkW4tG2JBhpyZp}">
       Solution
     </a>
     <span> | </span>
@@ -36,23 +36,13 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+![screenshot](https://github.com/Jonitha42/404Page-DevChallenge/blob/master/img/imagen_2023-06-30_235503351.png)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
-
+I made this challenge only with HTML and CSS.
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
