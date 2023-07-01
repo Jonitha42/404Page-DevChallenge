@@ -59,6 +59,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [your-website.com]([https://{your-web-site-link}](https://www.linkedin.com/in/jonathan-e-pardo/))
+- GitHub [@your-username](https://{github.com/Jonitha42})
+- Twitter [@your-twitter](https://{twitter.com/Yonip_42})
